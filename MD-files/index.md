@@ -1,4 +1,4 @@
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![Alt text](../images/tryning.png)
 # Guia de aprendisaje
 
 Este tutorial sera de mucha ayuda para tu aprendisaje en las nuevas tecnologias y herramientas de desarrollo.
@@ -8,4 +8,3 @@ Este tutorial sera de mucha ayuda para tu aprendisaje en las nuevas tecnologias 
 2. [Control de versiones.](https://www.google.com)
 3. [Frameworks PHP.](https://www.google.com)
 4. [Javascript.](https://www.google.com)
-
