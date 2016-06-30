@@ -1,4 +1,4 @@
-![Alt text](../images/tryning.png)
+![Alt text](../img/tryning.png)
 # Guia de aprendisaje
 
 Este tutorial sera de mucha ayuda para tu aprendisaje en las nuevas tecnologias y herramientas de desarrollo.
