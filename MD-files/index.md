@@ -1,7 +1,7 @@
 ![Alt text](img/tryning.png)
 # Guia de aprendisaje
 
-Este tutorial sera de mucha ayuda para tu aprendisaje en las nuevas tecnologias y herramientas de desarrollo.
+#### Este tutorial sera de mucha ayuda para tu aprendisaje en las nuevas tecnologias y herramientas de desarrollo.
 
 ## Temas:
 1. [Entorno Linux.](entorno_linux.html)
