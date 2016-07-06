@@ -1,3 +1,4 @@
+![Alt text](img/linux.png)
 # Entorno linux
 #### Linux es un sistema operativo enfocado a diferentes áreas, en esta guía lo enfocaremos al desarrollo de software. En esta sección veremos acerca de:
 
